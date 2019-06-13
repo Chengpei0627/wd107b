@@ -3,7 +3,7 @@
 
 ## 1. 網誌系統
 
-連結：[blog](Finalexam/blog)
+連結：[blog](https://chengpei0627.github.io/wd107b/Finalexam/blog/finalhtml)
 
 ## 2. 計算機
 
