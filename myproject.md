@@ -5,6 +5,6 @@
 
 連結：[blog](https://chengpei0627.github.io/wd107b/Finalexam/blog/finalhtml)
 
-## 2. 計算機
+## 2. 商品計算機
 
-連結：[calculator](Finalexam/Javascript)
+連結：[calculator](https://chengpei0627.github.io/wd107b/Finalexam/java)
