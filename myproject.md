@@ -10,7 +10,7 @@
 3.下拉式菜單(dropdown)
 4.基本html
 5.連結至其他網頁
-6.其他網頁掛載bootsrip
+6.其他網頁掛載bootsrip(其他內含javasrtip)
 
 ## 2. 商品計算機
 
